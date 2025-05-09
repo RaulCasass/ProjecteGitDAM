@@ -15,6 +15,7 @@ public class ProjecteGitDAM {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Provant Git amb Netbeans!");
     }
     
 }
